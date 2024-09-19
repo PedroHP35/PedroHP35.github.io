@@ -1,0 +1,163 @@
+.styleHeader {
+    color: white;
+    background-color: #0636e6;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    margin: 0;
+    padding: 10px;
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.mainButton {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    height: 25px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    background-color: #0636e6;
+    border-color: #0636e6;
+    border: none;
+    text-decoration: none;
+
+}
+.mainButton a{
+    color: white;
+}
+
+.socialMediaLogo {
+    width: 50px;
+    height: 50px;
+}
+
+.styleDiv1 {
+    text-align: center;
+    margin-top: 400px;
+    margin-bottom: 80px;
+    color: black;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.professionalPicture {
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 11%;
+}
+
+.styleDiv2 {
+    text-align: center;
+    margin-top: 180px;
+    margin-bottom: 180px;
+    color: black;
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 10px;
+
+    margin: 0;
+    padding: 10px;
+    border: none;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+.atitusLogo {
+    width: 450px;
+    height: 150px;
+}
+
+.styleDiv3 {
+    text-align: center;
+    margin-top: 450px;
+    margin-bottom: 80px;
+    color: black;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 10px;
+}
+
+.esLogos {
+    width: 300px;
+    height: 150px;    
+}
+
+.styleDiv4 {
+    text-align: center;
+    margin-top: 180px;
+    margin-bottom: 180px;
+    color: black;
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 10px;
+
+    margin: 0;
+    padding: 10px;
+    border: none;
+    position: absolute;
+    left: 0;
+    width: 100%;
+
+}
+
+.line {
+    color: grey;
+}
+
+.styleDiv5 {
+    text-align: center;
+    margin-top: 410px;
+    margin-bottom: 80px;
+    color: black;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 10px;
+}
+
+.atSocialImg {
+    width: 150px;
+    height: 150px;
+}
+
+.styleFooter {
+    background-color: #0636e6;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 0;
+    padding: 10px;
+    border: none;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
